@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "V55JGNK5BY.com.fabioferreira.quemjoga",
+        "components": [
+          {
+            "/": "/web/continuar",
+            "comment": "Abre o Quem Joga por meio do QR Code compartilhado"
+          },
+          {
+            "/": "/web/continuar/*",
+            "comment": "Compatibilidade com caminhos adicionais do fluxo de continuação"
+          }
+        ]
+      }
+    ]
+  }
+}
