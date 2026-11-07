@@ -32,7 +32,7 @@ const RESOURCES = {"assets/assets/logo_qj.png": "ad33cfaa029cf303868a7abe4f08528
 "favicon.png": "6a05f58477d522fad412d74e58c441da",
 "politica-de-privacidade.html": "c8a0b6784eeee936855f5cd5703eb513",
 "manifest.json": "74916ee5490629ed6f1c45274a178020",
-"main.dart.js": "a07349fa9862b6fd6e5455c3eaa27152",
+"main.dart.js": "ec80a082d319e92b9ddad3ae1ba90aed",
 "index.html": "d8af99b87b8449d61e0e7e52d9706861",
 "/": "d8af99b87b8449d61e0e7e52d9706861",
 "version.json": "ebbc5923bdd7802d2941f5c8cbd79123",
@@ -40,7 +40,7 @@ const RESOURCES = {"assets/assets/logo_qj.png": "ad33cfaa029cf303868a7abe4f08528
 "exclusao-de-conta.html": "05e2ff9838a669bf7c7b476a8feef28d",
 ".well-known/apple-app-site-association": "d1385360455f94ef112762e1e508137a",
 ".well-known/assetlinks.json": "15efaa8e945898580b4eb627f4358ade",
-"flutter_bootstrap.js": "dd97fe385e004551a04bbf3856022f16"};
+"flutter_bootstrap.js": "1f79ece310d4bb44237ada37aeeca728"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
